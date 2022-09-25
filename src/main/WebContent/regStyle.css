@@ -1,0 +1,80 @@
+@charset "ISO-8859-1";
+
+body
+{
+	background-image: url('Bus_Girl.jpeg');
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.datosP
+{		
+	justify-content: space-between;
+	margin: 5%;
+}
+
+.datosP input:hover
+{	
+	background: white;	
+	font-family: Comic Sans MS;
+	font-size: 12px;	
+}
+
+.datosP input
+{
+	text-align: center;
+	color: blue;
+}
+
+
+.datosG
+{
+	justify-content: space-between;
+	margin: 5%;
+}
+
+.datosG input
+{
+	text-align: center;
+	color: blue;
+}
+
+.datosG input:hover
+{
+	background: white;	
+	font-family: Comic Sans MS;
+	font-size: 12px;
+}
+
+.datosEsc
+{
+	justify-content: space-between;
+	margin: 5%;
+}
+
+.datosEsc input
+{
+	text-align: center;
+	color: blue;
+}
+
+.datosEsc input:hover
+{
+	background: white;	
+	font-family: Comic Sans MS;
+	font-size: 12px;
+}
+
+.submitButton input:hover
+{
+	background: #2596be;
+	color: white;
+	font-family: Comic Sans MS;
+}
+
+footer
+{
+	text-align: center;
+	color: blue;
+}
